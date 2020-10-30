@@ -6,7 +6,7 @@ import "openzeppelin-solidity/contracts/ownership/Ownable.sol";
 
 /**
  * @title Hulk.Finance Staking Token
- * @author Silvan de Smit
+ * @author Hulk Dev
  * @notice Implements a basic ERC20 staking token with incentive distribution.
  */
 contract StakingToken is ERC20, Ownable {
