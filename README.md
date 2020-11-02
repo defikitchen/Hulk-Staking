@@ -51,9 +51,9 @@ Running into problems connecting with Brave? Brave’s native Crypto Wallets int
 
 It is not possible to initiate withdrawals during the initial 30-day lock-up period. After this period your dashboard shows two actions you can choose from.
 
-    "Unlock Rewards". This button can be used to start collecting your accumulated rewards. Pushing this button and completing the MetaMask transaction initiates the 7-day cool-down period. After the cool-down period you are able to claim your accumulated rewards. Keep in mind, this action comes with transaction fees on the Ethereum network.
+Unlock staking. This button can be used to start collecting your accumulated rewards. Pushing this button and completing the MetaMask transaction initiates the 7-day cool-down period. After the cool-down period you are able to claim your accumulated rewards. Keep in mind, this action comes with transaction fees on the Ethereum network.
 
-    "Claim Stake + Rewards". This button can be used for unstaking, by which you automatically claim your initial stake + all accumulated rewards. Only use this button if you wish to stop staking, and clicking it will initiate the 7-day cool-down period. After the cool-down period you are able to (re)claim your stake and rewards.
+Collect rewards. This button can be used for unstaking, by which you automatically claim your initial stake + all accumulated rewards. Only use this button if you wish to stop staking, and clicking it will initiate the 7-day cool-down period. After the cool-down period you are able to (re)claim your stake and rewards.
 
 
 
