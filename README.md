@@ -1,8 +1,8 @@
 ## Hulk.Finance Staking-Protocol
 
-Staking on Hulk.Finance by essentially vaulting your Hulk-tokens is a way of leveraging your cryptocurrency assets through our smart contract staking-protocol.
-The current interest/profit margin of staking on Hulk.Finance is 15% APY. 
-The minimum duration of locking your assets in the Hulk staking vault is 30 days.
+Staking on Hulk.Finance is designed to suit the medium- to long-term investor. By staking your Hulk-tokens is a way of leveraging your cryptocurrency assets through our Smart Contract Staking-Protocol.
+The current interest/profit margin for future stakeholders of Hulk.Finance is 15% APY. 
+The minimum duration of locking your assets in the Hulk Staking-Pool is 30 days.
 
 ## Introduction to Staking an ERC20 Token
 
