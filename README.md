@@ -14,7 +14,7 @@ Countries that are excluded from participating in staking, due to government reg
 
 - Metamask browser wallet. How to video?
 
-Note: if you already have MetaMask installed you can skip this step and move to part III.
+// If you have MetaMask installed, you can easily convert your assets in-App to USDT, the stablecoin required for staking on Hulk.Finance.
 
 The browser extension MetaMask is currently used by over 1 million users worldwide, and can be used to start exploring blockchain applications in seconds.
 
@@ -26,7 +26,7 @@ In order to install MetaMask, visit the official MetaMask website. Or access the
     Click “Get started” on the MetaMask welcome screen.
     Select your preferred option: “Import Wallet” or “Create a Wallet”.
 
-
+// 
 
 
 
