@@ -54,7 +54,9 @@ Unlock staking. This button can be used to start collecting your accumulated rew
 Collect rewards. This button can be used for unstaking, by which you automatically claim your initial stake + all accumulated rewards. Only use this button if you wish to stop staking, and clicking it will initiate the 7-day cool-down period. After the cool-down period you are able to (re)claim your stake and rewards.
 
 
+## Governance
 
+As the DAO we want the holders of HULK tokens to participate in key project decisions, like the selection of new investment tools, project roadmap changes, new staking pools formation, their terms, and conditions, etc. For this reason, we will implement a voting system for HULK holders that will be ready within 30 days after the project launch.
 
 
 ## Terms and conditions
