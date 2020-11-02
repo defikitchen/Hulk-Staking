@@ -1,4 +1,4 @@
-// Hulk.Finance Staking-Protocol
+## Hulk.Finance Staking-Protocol
 
 ## Introduction to Staking an ERC20 Token
 
