@@ -60,6 +60,12 @@ Running into problems connecting with Brave? Brave’s native Crypto Wallets int
 - USDT Tokens. The USDT tokens can easily be acquired on Uniswap. How to video??
 - Ether as gas to fuel transactions.
 
+## Minimum stake
+A minimum of 50 Hulk-tokens is required to participate in the staking-protocol.
+
+## Maximum stake
+A maximum of 10.000 Hulk-tokens can be utilized for staking for each individual address.
+
 ## Withdrawing your earnings
 
 It is not possible to initiate withdrawals during the initial 30-day lock-up period. After this period your dashboard shows two actions you can choose from.
