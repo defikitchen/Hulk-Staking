@@ -1,7 +1,7 @@
 ## Hulk.Finance Staking-Protocol
 
 Staking on Hulk.Finance with the USDT-stablecoin is a way of leveraging your cryptocurrency assets through our smart contract staking-protocol.
-The current interest/profit margin of stakingon Hulk.Finance is 15% APY. 
+The current interest/profit margin of staking on Hulk.Finance is 15% APY. 
 The minimum duration of locking your assets in the Hulk staking vault is 30 days.
 
 ## Introduction to Staking an ERC20 Token
