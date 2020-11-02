@@ -16,6 +16,23 @@ Countries that are excluded from participating in staking, due to government reg
 - Utility of a trustworthy stablecoin.
 - Higher than average APY, 15%.
 
+## Time-table
+
+Staking HULK-token requires a minimum lock-up of 30 days. As implied, staked Hulk tokens cannot be moved or withdrawn in this timeframe. Please note that, in addition to the lock-up, we've initialized a 24 hour withdrawal-period if you wish to stop staking, and withdraw your stake and/or profit. This results in a total minimum lock-up duration of 31 days.
+
+We value accessibility. This is why the process of staking Hulk tokens will be open to the public. All that is required is the prerequisite Hulk token amount, and to be eligible in accordance with our country exclusion list. As a general rule of thumb, if you are able to buy and trade Hulk then you should be able to stake. 
+
+This tutorial should ensure that all non-technical users can easily participate in the Hulk.Finance staking protocol.
+
+## Wallets
+
+Hulk.Finance staking is compatible with any ERC-20 wallet, as long as you own the private key or seed phrase. These can be used to import your wallet into MetaMask.
+
+## Why use MetaMask?
+
+MetaMask automates a host of interactions and reduces the chances of mistakes in the staking process. The MetaMask app can be found here: https://metamask.io/
+
+
 
 ## Requirements for staking
 
@@ -24,6 +41,7 @@ Countries that are excluded from participating in staking, due to government reg
 If you have MetaMask installed, you can easily convert your assets in-App to HULK, the token required for staking on Hulk.Finance.
 
 The browser extension MetaMask is currently used by over 1 million users worldwide, and can be used to start exploring blockchain applications in seconds.
+Cold storage devices such as Ledger or Trezor can also be used with MetaMask.
 
 In order to install MetaMask, visit the official MetaMask website. Or access the MetaMask download page directly and follow these steps:
 
@@ -40,9 +58,6 @@ Running into problems connecting with Brave? Brave’s native Crypto Wallets int
 
 
 - USDT Tokens. The USDT tokens can easily be acquired on Uniswap. How to video??
-
-
-
 - Ether as gas to fuel transactions.
 
 ## Withdrawing your earnings
