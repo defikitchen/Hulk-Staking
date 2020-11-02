@@ -28,6 +28,10 @@ In order to install MetaMask, visit the official MetaMask website. Or access the
 
 // 
 
+Using the Brave Browser?
+
+Running into problems connecting with Brave? Brave’s native Crypto Wallets interfere with the MetaMask connection. Head over to the settings button on the top right of your browser. Then select ‘settings’. Scroll down to the ‘Extensions’-overview, and look for ‘Web3 provider for using Dapps’, select ‘MetaMask’. Once it’s done, refresh (CTRL+SHIFT+R for a hard refresh) the page and try again.
+
 
 
 - USDT Tokens. The USDT tokens can easily be acquired on Uniswap. How to video??
@@ -35,6 +39,15 @@ In order to install MetaMask, visit the official MetaMask website. Or access the
 
 
 - Ether as gas to fuel transactions.
+
+## Withdrawing your earnings
+
+It is not possible to initiate withdrawals during the initial 30-day lock-up period. After this period your dashboard shows two actions you can choose from.
+
+    "Unlock Rewards". This button can be used to start collecting your accumulated rewards. Pushing this button and completing the MetaMask transaction initiates the 7-day cool-down period. After the cool-down period you are able to claim your accumulated rewards. Keep in mind, this action comes with transaction fees on the Ethereum network.
+
+    "Claim Stake + Rewards". This button can be used for unstaking, by which you automatically claim your initial stake + all accumulated rewards. Only use this button if you wish to stop staking, and clicking it will initiate the 7-day cool-down period. After the cool-down period you are able to (re)claim your stake and rewards.
+
 
 
 
